@@ -1,5 +1,5 @@
 <h1>TripDrop – Privacy Policy</h1>
-<p><strong>Last Updated:</strong> [Insert Date]</p>
+<p><strong>Last Updated:</strong> 12/10/2025</p>
 
 <p>
   TripDrop (“we”, “our”, or “us”) provides a mobile application designed to help users track flight prices and receive alerts when prices change. 
