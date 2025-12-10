@@ -1,32 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>TripDrop – Privacy Policy</title>
-
-  <style>
-    body {
-      max-width: 900px;
-      margin: 40px auto;
-      padding: 0 20px;
-      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Arial, sans-serif;
-      line-height: 1.65;
-      color: #333;
-    }
-    h1, h2, h3 {
-      font-weight: 700;
-    }
-    h1 { font-size: 2.2rem; margin-top: 0; }
-    h2 { margin-top: 32px; font-size: 1.6rem; }
-    h3 { margin-top: 24px; font-size: 1.25rem; }
-    p { margin: 12px 0; }
-    ul { margin: 12px 0 12px 24px; }
-  </style>
-</head>
-
-<body>
-
 <h1>TripDrop – Privacy Policy</h1>
 <p><strong>Last Updated:</strong> [Insert Date]</p>
 
@@ -122,5 +93,3 @@
   <strong>[Your Support Email]</strong>
 </p>
 
-</body>
-</html>
