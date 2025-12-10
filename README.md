@@ -89,7 +89,7 @@
 <h2>8. Contact Us</h2>
 <p>
   For questions or privacy requests, contact:  
-  <strong>[Your Name or Company]</strong><br>
-  <strong>[Your Support Email]</strong>
+  <strong>TripDrop</strong><br>
+  <strong>formiodesign@gmail.com</strong>
 </p>
 
